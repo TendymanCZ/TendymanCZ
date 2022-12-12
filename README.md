@@ -1,7 +1,4 @@
 Yo im Tendy,
-
-i love python, c# and im interested in any kind of apps that makes my life easier.
-
 "When theres a problem i always VIM."
 
 <!---
